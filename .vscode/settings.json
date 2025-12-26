@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/pypy/bin/python3",
+    "python.terminal.activateEnvironment": true
+}
+
