@@ -42,6 +42,6 @@ class User(Base):
     )
 
     issues = relationship("Issue", 
-    backe_populates="users",
+    back_populates="user",
     cascade="all, delete-orphan"
     )
